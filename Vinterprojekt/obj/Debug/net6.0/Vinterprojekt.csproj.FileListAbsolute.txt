@@ -1,0 +1,15 @@
+c:\Users\felix.elliot\Documents\Programering 1\Vinterprojekt\Vinterprojekt\bin\Debug\net6.0\Vinterprojekt.exe
+c:\Users\felix.elliot\Documents\Programering 1\Vinterprojekt\Vinterprojekt\bin\Debug\net6.0\Vinterprojekt.deps.json
+c:\Users\felix.elliot\Documents\Programering 1\Vinterprojekt\Vinterprojekt\bin\Debug\net6.0\Vinterprojekt.runtimeconfig.json
+c:\Users\felix.elliot\Documents\Programering 1\Vinterprojekt\Vinterprojekt\bin\Debug\net6.0\Vinterprojekt.dll
+c:\Users\felix.elliot\Documents\Programering 1\Vinterprojekt\Vinterprojekt\bin\Debug\net6.0\Vinterprojekt.pdb
+c:\Users\felix.elliot\Documents\Programering 1\Vinterprojekt\Vinterprojekt\obj\Debug\net6.0\Vinterprojekt.csproj.AssemblyReference.cache
+c:\Users\felix.elliot\Documents\Programering 1\Vinterprojekt\Vinterprojekt\obj\Debug\net6.0\Vinterprojekt.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\felix.elliot\Documents\Programering 1\Vinterprojekt\Vinterprojekt\obj\Debug\net6.0\Vinterprojekt.AssemblyInfoInputs.cache
+c:\Users\felix.elliot\Documents\Programering 1\Vinterprojekt\Vinterprojekt\obj\Debug\net6.0\Vinterprojekt.AssemblyInfo.cs
+c:\Users\felix.elliot\Documents\Programering 1\Vinterprojekt\Vinterprojekt\obj\Debug\net6.0\Vinterprojekt.csproj.CoreCompileInputs.cache
+c:\Users\felix.elliot\Documents\Programering 1\Vinterprojekt\Vinterprojekt\obj\Debug\net6.0\Vinterprojekt.dll
+c:\Users\felix.elliot\Documents\Programering 1\Vinterprojekt\Vinterprojekt\obj\Debug\net6.0\refint\Vinterprojekt.dll
+c:\Users\felix.elliot\Documents\Programering 1\Vinterprojekt\Vinterprojekt\obj\Debug\net6.0\Vinterprojekt.pdb
+c:\Users\felix.elliot\Documents\Programering 1\Vinterprojekt\Vinterprojekt\obj\Debug\net6.0\Vinterprojekt.genruntimeconfig.cache
+c:\Users\felix.elliot\Documents\Programering 1\Vinterprojekt\Vinterprojekt\obj\Debug\net6.0\ref\Vinterprojekt.dll
