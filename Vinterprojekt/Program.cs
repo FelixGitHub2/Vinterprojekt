@@ -7,7 +7,12 @@ Raylib.SetTargetFPS(60);
 
 Raylib.InitWindow(1920, 1080, "Vinterprojekt");
 
+float speed = 5f;
+
+string currentScene = "game";
+
 Player playa = new Player();
+
 
 while (!Raylib.WindowShouldClose())
 {
@@ -19,6 +24,8 @@ while (!Raylib.WindowShouldClose())
     Raylib.ClearBackground(Color.LIGHTGRAY);
 
     playa.Draw();
+
+    playa.Movement();
 
 
     Raylib.EndDrawing();
