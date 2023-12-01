@@ -13,6 +13,8 @@ string currentScene = "game";
 
 Player playa = new Player();
 
+Platforms plat = new Platforms();
+
 
 while (!Raylib.WindowShouldClose())
 {
