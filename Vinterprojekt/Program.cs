@@ -15,6 +15,8 @@ Player playa = new Player();
 
 Platforms plat = new Platforms();
 
+Enemy enemy = new Enemy();
+
 
 while (!Raylib.WindowShouldClose())
 {
@@ -29,6 +31,9 @@ while (!Raylib.WindowShouldClose())
 
     playa.Movement();
 
+    plat.wall();
+
+    enemy.DrawEn();
 
     Raylib.EndDrawing();
 }
