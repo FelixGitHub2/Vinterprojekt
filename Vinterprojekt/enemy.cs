@@ -1,6 +1,7 @@
 using Raylib_cs;
 using System.Numerics;
 
+//Enemy Class
 public class Enemy
 {
 
@@ -11,8 +12,5 @@ public class Enemy
         Raylib.DrawRectangleRec(enemy, Color.RED);
     }
 
-    public void EnMove()
-    {
-        Vector2 enemyPos = new Vector2(enemy.X, enemy.Y);
-    }
+
 }

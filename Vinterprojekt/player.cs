@@ -1,6 +1,7 @@
 using Raylib_cs;
 using System.Numerics;
 
+//Player Class (Movement, Render)
 
 public class Player
 {
